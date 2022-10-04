@@ -1,0 +1,3 @@
+Este archivo fue creado mediante la función "Add file" y la función "Create File"
+
+Con la función "Create File" solo se puede crear archivos .txt o códigos, a diferencias de subir archivos, que ya pueden ser imágenes, videos, etc.
