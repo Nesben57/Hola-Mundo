@@ -1,0 +1,9 @@
+Crear un "fork" quiere decir producir una copia personal del repositorio de otra persona, inclutendo todas las ramas y archivos que contenga.
+
+Esto suele hacerse cuando se trabaja en equipos para contribuir en el proyecto de otra persona, o si se quiere usar el proyecto de otra persona como base para uno propio
+
+El "fork" funciona como un PUENTE entre el repositorio de esa otra persona, y nuestro repositorio personal
+
+Esta función suele complementarse con la función Pull Request, para mandar nuestros cambios al proyecto original. 
+
+Estas dos funciones "fork" y "pull request" son el núcleo de la colaboración en GitHub
