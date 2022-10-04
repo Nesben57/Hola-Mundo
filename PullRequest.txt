@@ -1,0 +1,23 @@
+El Pull Request sirve básicamente para integrar los cambios hechos en la rema secundaria a la rama principal, solicitándo a alguien que verifique y apruebe estos cambios
+
+La creación de una rama secundaria se hace para modificar a la rama principal sin alterarla, pudiendo hacer todas las modificaciones y cambios queridos a esta rama 
+secundaria para luego, si está todo bien, integrarla o sumarla a la rama principal
+
+La verificación y aprobación generalemente la hace un tercero (por ejemplo, el lider del proyecto)
+
+Después de crear una rama secundaria y realizar cambios, GitHub automáticamente nos va a dar la opción "Compare & Pull Request" arriba a la derecha de la página
+
+En esa página se ve las dos ramas que se comparan, y se debe adherir una mención al usuario que se quiere que realice la verificación (@fulanito)
+
+
+Los "Pull Request" son basicamente el corazón de por qué se utiliza GitHub. Es decir, la contribución en requipos
+
+Finalmente, La Función "Merge pull request" sirve para fucionar la rama secundaria y la rama main
+
+Una vez que los cambios fueron incorporados a la rama principal, la rama secundaria podrá ser eliminada, ya que si luego se quieren hacer otros cambios, lo usual es 
+crear nuevas ramas
+
+Todo el historial, inlucído los cambios hechos, quedarán guardados en el historial Commit
+
+NOTA* en este ejemplo no haré la fución ya que es una prueba
+
